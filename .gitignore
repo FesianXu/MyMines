@@ -1,0 +1,9 @@
+# ignore debug files
+/Debug/
+/Release/
+/mymine/Debug/
+/mymine/Release/
+
+#ignore go-back files
+*.sdf
+*.opensdf
